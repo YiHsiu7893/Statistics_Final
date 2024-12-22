@@ -1,6 +1,6 @@
 # Statistics Final Project
-### 113 Autumn - Statistics, 曾意儒, NYCU  
-Hi :)  
+### 113 Autumn - Statistics, 曾意儒, NYCU   
+Data Source: [教育部統計處-學校基本統計資訊](https://depart.moe.edu.tw/ed4500/News.aspxn=5A930C32CC6C3818&sms=91B3AAE8C6388B96)
 
 ## Contents
 - data/ : processed data for statistical analysis
