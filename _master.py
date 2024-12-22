@@ -26,6 +26,8 @@ for i in range(106, 112):
     ms = ms[grad_cols]
 
     data = pd.merge(ms, sch, on='學校名稱') 
+    # Exception Handling: school merging 
+    data['學校名稱'] = data['學校名稱'].replace({'國立交通大學':'國立陽明交通大學', '國立陽明大學':'國立陽明交通大學'})
     # Group data by its school name
     data = data.groupby('學校名稱', as_index=False).agg({
     '上學年畢業生總計': 'sum',    
