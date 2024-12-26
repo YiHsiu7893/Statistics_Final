@@ -10,7 +10,7 @@ Data Source: [教育部統計處-學校基本統計資訊](https://depart.moe.ed
 - Descriptive.ipynb :  
 - _cs.py : code used to prepare the cs_students.csv file
 - _master.py : code used to prepare the graduates.csv file
-- statistical_test.ipynb :
+- statistical_test.ipynb : code used to perform hypothesis tests
   
 ## Data Description  
 #### 1. cs_students.csv
