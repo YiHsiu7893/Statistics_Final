@@ -7,7 +7,7 @@ Data Source: [教育部統計處-學校基本統計資訊](https://depart.moe.ed
 - ori_files/ : original data of school information, graduate student statistics, and all student statistics
 - others/ : additional data containing significant school changes
 - plots/ : despriptive analysis, containing line plots and box plots for each category
-- Descriptive.ipynb :  
+- Descriptive.ipynb :  code used to perform descriptive tests and draw graphs
 - _cs.py : code used to prepare the cs_students.csv file
 - _master.py : code used to prepare the graduates.csv file
 - statistical_test.ipynb : code used to perform hypothesis tests
